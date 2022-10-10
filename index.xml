@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfólio de Data Science on Rodrigo Esteves</title>
+    <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/</link>
+    <description>Recent content in Portfólio de Data Science on Rodrigo Esteves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Oct 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://rodrigom-esteves.github.io/Rodrigo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projeto 5: Detecção de animais com YOLO</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto5/</link>
+      <pubDate>Sun, 09 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto5/</guid>
+      <description>Detecção de capivaras, cachorros e equinos utilizando yolov4. São apresentadas aplicações do modelo para imagens, seguidas de comentários a cerca do seu desempenho, e aplicações do modelo para vídeos, também acompanhadas de críticas e comentários.
+Transfer Learning; Detecção em imagens; Detecção em vídeo; yolov4. Link para o repositório do GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projeto 4: Classificando animais utilizando Xception e Transfer Learning</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto4/</link>
+      <pubDate>Sun, 09 Oct 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto4/</guid>
+      <description>Classificação de imagens de capivaras e equinos utilizando redes pré-treinadas com o Xception.
+Transfer Learning; Exception; Redes Neurais. Link para o repositório do GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projeto 3: Prevendo valores de transações imobiliárias</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto3/</link>
+      <pubDate>Sun, 09 Oct 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto3/</guid>
+      <description>Criação de um modelo preditivo de árvore de decisão para os preços de transações imobiliárias no Rio de Janeiro de 2010 até 03/2022.
+Análise exploratória de dados; One-hot encoding; GridSearch e Cross Validation; Aprendizado supervisionado. Link para o repositório do GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projeto 2: Twitter Sentiment Analysis</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto2/</link>
+      <pubDate>Sun, 09 Oct 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto2/</guid>
+      <description>Análise de sentimento com TextBlob utilizando tweets.
+Mineração de opinições ou IA de emoções; Categorizar opiniões e atitudes expressas em um texto(positiva, negativa ou neutra); Determinar a atitude do palestrante ou autor com respeito a algum tópico (polaridade,subjetividade); Regressão logística simples. Link para o repositório do GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projeto 1: Caracterizando jogadores de futebol usando dados de desempenho</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto1/</link>
+      <pubDate>Sun, 09 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto1/</guid>
+      <description>Aprendizado não-supervisionado Pré-processamento de dados (normalização, remoção de dados faltantes) Análise exploratória Análise de componentes principais Clusterização utilizando K-means e Hierarchical Clustering Métodos de avaliação de resultados Link para o repositório do GitHub</description>
+    </item>
+    
+    <item>
+      <title>Trabalhos de pós-graduação</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto0/</link>
+      <pubDate>Sun, 09 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/post/projeto0/</guid>
+      <description>Coleção de trabalho desenvolvidos durante o período da pós-graduação em ciência de dados pela UFRJ. São abordados diversos tópicos envolvendo ciência de dados, programação e banco de dados. Nem tudo está em formato de entrega, sendo alguns rascunhos da versão final. O objetivo aqui é apresentar toda variedade de assuntos abordados durante o período em que realizei a pós. As matérias em destaque são:
+Introdução ao Python Introdução à modelagem de incertezas Mineração de dados Introdução ao aprendizado estatístico Aprendizado supervisionado I Aprendizado supervisionado II Aprendizado não-supervisionado Banco de dados Redes neurais e Deep Learning Métodos de otimização Previsões bayesianas e modelos gráficos Trabalho de concusão de curso Link para o repositório do GitHub</description>
+    </item>
+    
+    <item>
+      <title>Contatos</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/contact/</guid>
+      <description>Informações de contato
+Platform URL E-mail: maltaufrj@gmail.com Twitter: https://twitter.com/rodrigoma1ta LinkedIn: https://www.linkedin.com/in/rodrigo-esteves-262b4b1b9/ GitHub: https://github.com/rodrigom-esteves Kaggle: https://www.kaggle.com/rmesteves </description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigom-esteves.github.io/Rodrigo_Portfolio/about/</guid>
+      <description>Meu nome é Rodrigo Esteves, sou formado em Estatística e tenho pós-graduação em Ciência de Dados pela UFRJ. Comecei a me interessar pela área de ciência de dados em 2016, quando passei a estudar de forma independente durante o período da graduação. Em 2020, ingressei no curso de especialização e tive um contato formal com as diferentes formas de análise e modelagem de dados; onde me formei como melhor aluno. Minha área de interesse principal é visão computacional, principalmente envolvendo classificação e detecção de objetos em tempo real.</description>
+    </item>
+    
+  </channel>
+</rss>
